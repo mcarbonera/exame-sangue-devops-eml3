@@ -1,3 +1,7 @@
+# Sobre:
+
+-Disciplina de DevOps do MBA em Machine Learning in Production da UFSCAR.
+
 # Estrutura do projeto:
 
 - /treinamento: nessa pasta foi criado um script salvar-modelo.py para repetir o processo do notebook e salvar o modelo em um arquivo "model.pkl"
