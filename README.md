@@ -18,7 +18,7 @@ python3 treinamento/salvar-modelo.py
 - A API possui 1 endpoint para enviar dados de exame de sangue e obter a classificação:
 
 ```
-  localhost:5000/classificar
+  POST localhost:5000/classificar
 ```
 
 - Os dados de entrada devem ter esse formato, que são os parâmetros de um exame de sangue:
