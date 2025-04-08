@@ -1,6 +1,6 @@
 # Sobre:
 
--Disciplina de DevOps do MBA em Machine Learning in Production da UFSCAR.
+- Disciplina de DevOps do MBA em Machine Learning in Production da UFSCAR.
 
 # Estrutura do projeto:
 
